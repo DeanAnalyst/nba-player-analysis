@@ -4,6 +4,8 @@
 
 This project performs an exploratory data analysis (EDA) and predictive modeling on a dataset of NBA player statistics. The goal is to uncover insights related to player performance, the impact of draft position, physical attributes, geographical diversity, and college origins. Additionally, a machine learning model is developed to predict career points per game based on pre-NBA characteristics. The analysis utilizes Python (Pandas, Matplotlib, Seaborn, Scikit-learn) for data manipulation, visualization, and modeling, and also demonstrates SQL querying capabilities.
 
+For a comprehensive overview of the project, please visit the detailed project page on my portfolio: ➡️ [Dean Bonsu - Mould Detection Project](https://DeanAnalyst.github.io/projects/mould-detection/) ⬅️
+
 ## Data Source
 
 The dataset, `PlayerIndex_nba_stats.csv`, contains statistical information about current and former NBA players, sourced from official NBA statistics.
